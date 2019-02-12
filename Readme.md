@@ -2,8 +2,8 @@
 
 Matlab reproducible experiments for the following preprint:
 
-[**Paper**](https://arxiv.org/abs/1902.03755)
-Dmitry Babichev, Dmitrii Ostrovskii, Francis Bach, Efficient primal-dual algorithms for large-scale multiclass classification
+[**Efficient primal-dual algorithms for large-scale multiclass classification**](https://arxiv.org/abs/1902.03755) by
+Dmitry Babichev, Dmitrii Ostrovskii, Francis Bach
 
 ## Running the experiments
 The experiments, in the order of appearance in the paper, are launched via the following MATLAB commands: 
